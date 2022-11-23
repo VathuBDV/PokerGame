@@ -1,0 +1,7 @@
+C:\Users\vathu\Downloads\20200531121445_PokerGamePro\PokerGamePro\PokerGamePro\bin\Debug\PokerGamePro.exe.config
+C:\Users\vathu\Downloads\20200531121445_PokerGamePro\PokerGamePro\PokerGamePro\bin\Debug\PokerGamePro.exe
+C:\Users\vathu\Downloads\20200531121445_PokerGamePro\PokerGamePro\PokerGamePro\bin\Debug\PokerGamePro.pdb
+C:\Users\vathu\Downloads\20200531121445_PokerGamePro\PokerGamePro\PokerGamePro\obj\Debug\PokerGamePro.csproj.AssemblyReference.cache
+C:\Users\vathu\Downloads\20200531121445_PokerGamePro\PokerGamePro\PokerGamePro\obj\Debug\PokerGamePro.csproj.CoreCompileInputs.cache
+C:\Users\vathu\Downloads\20200531121445_PokerGamePro\PokerGamePro\PokerGamePro\obj\Debug\PokerGamePro.exe
+C:\Users\vathu\Downloads\20200531121445_PokerGamePro\PokerGamePro\PokerGamePro\obj\Debug\PokerGamePro.pdb
